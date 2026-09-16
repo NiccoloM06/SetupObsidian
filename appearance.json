@@ -1,0 +1,13 @@
+{
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 17,
+  "showRibbon": true,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "LMMono12,LMMono10,LMMono9",
+  "enabledCssSnippets": [
+    "materia-colors"
+  ],
+  "theme": "obsidian",
+  "baseFontSizeAction": false
+}

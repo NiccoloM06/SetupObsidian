@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "vimMode": false,
+  "uriCallbacks": true,
+  "showLineNumber": true,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "livePreview": false,
+  "focusNewTab": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

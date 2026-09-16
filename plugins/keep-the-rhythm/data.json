@@ -1,0 +1,5333 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "preferredUnit": "WORD",
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "ignoreComments": false,
+    "ignoreTasks": false,
+    "ignoreDeletedFiles": false,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "WHOLE_VAULT",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "CURRENT_FILE",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        }
+      ]
+    },
+    "backupConfig": {
+      "enabled": true,
+      "folderPath": ".keep-the-rhythm",
+      "maxNumberOfBackups": 3
+    }
+  },
+  "stats": {
+    "currentStreak": 0,
+    "highestStreak": 0,
+    "highestStreakStartDate": "",
+    "highestStreakEndDate": "",
+    "daysWithCompletedGoal": [
+      "2025-12-08",
+      "2025-12-09",
+      "2025-12-10",
+      "2025-12-11",
+      "2025-12-12",
+      "2025-12-13",
+      "2025-12-14",
+      "2025-12-15",
+      "2025-12-16",
+      "2026-02-27",
+      "2026-02-28",
+      "2026-03-22",
+      "2026-09-10",
+      "2026-09-16"
+    ],
+    "dailyActivity": [
+      {
+        "date": "2025-12-07",
+        "filePath": "create a link.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-12-07",
+        "filePath": "2025-12-07.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-12-07",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 3
+      },
+      {
+        "date": "2025-12-08",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:50",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "11:55",
+            "w": 6,
+            "c": 56
+          },
+          {
+            "timeKey": "12:00",
+            "w": -6,
+            "c": -57
+          },
+          {
+            "timeKey": "12:05",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:10",
+            "w": 8,
+            "c": 56
+          },
+          {
+            "timeKey": "12:15",
+            "w": 31,
+            "c": 242
+          },
+          {
+            "timeKey": "12:20",
+            "w": 41,
+            "c": 294
+          },
+          {
+            "timeKey": "12:25",
+            "w": 0,
+            "c": 5
+          },
+          {
+            "timeKey": "12:40",
+            "w": 2,
+            "c": 24
+          },
+          {
+            "timeKey": "12:45",
+            "w": 30,
+            "c": 237
+          },
+          {
+            "timeKey": "12:50",
+            "w": 3,
+            "c": 28
+          },
+          {
+            "timeKey": "13:05",
+            "w": 3,
+            "c": 29
+          },
+          {
+            "timeKey": "13:10",
+            "w": 10,
+            "c": 73
+          },
+          {
+            "timeKey": "13:15",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "13:20",
+            "w": 3,
+            "c": 17
+          },
+          {
+            "timeKey": "13:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "13:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:20",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "16:30",
+            "w": 24,
+            "c": 145
+          },
+          {
+            "timeKey": "16:35",
+            "w": 11,
+            "c": 83
+          },
+          {
+            "timeKey": "16:40",
+            "w": 28,
+            "c": 188
+          },
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:50",
+            "w": 16,
+            "c": 91
+          },
+          {
+            "timeKey": "16:55",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "17:00",
+            "w": 44,
+            "c": 307
+          },
+          {
+            "timeKey": "17:05",
+            "w": 23,
+            "c": 141
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "17:15",
+            "w": 2,
+            "c": 20
+          },
+          {
+            "timeKey": "17:20",
+            "w": 21,
+            "c": 127
+          },
+          {
+            "timeKey": "17:25",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "17:35",
+            "w": 41,
+            "c": 334
+          },
+          {
+            "timeKey": "17:40",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:45",
+            "w": 29,
+            "c": 199
+          },
+          {
+            "timeKey": "17:50",
+            "w": 44,
+            "c": 293
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:35",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "21:50",
+            "w": 5,
+            "c": 30
+          },
+          {
+            "timeKey": "21:55",
+            "w": 20,
+            "c": 196
+          },
+          {
+            "timeKey": "22:00",
+            "w": 5,
+            "c": 32
+          },
+          {
+            "timeKey": "22:05",
+            "w": 1,
+            "c": 1
+          },
+          {
+            "timeKey": "22:10",
+            "w": 2,
+            "c": 19
+          },
+          {
+            "timeKey": "22:15",
+            "w": 6,
+            "c": 49
+          },
+          {
+            "timeKey": "22:20",
+            "w": -2,
+            "c": -33
+          },
+          {
+            "timeKey": "22:25",
+            "w": 5,
+            "c": 44
+          },
+          {
+            "timeKey": "22:35",
+            "w": -1,
+            "c": 14
+          },
+          {
+            "timeKey": "22:40",
+            "w": -2,
+            "c": -19
+          },
+          {
+            "timeKey": "22:45",
+            "w": 12,
+            "c": 91
+          },
+          {
+            "timeKey": "22:50",
+            "w": 24,
+            "c": 156
+          },
+          {
+            "timeKey": "22:55",
+            "w": 22,
+            "c": 147
+          },
+          {
+            "timeKey": "23:00",
+            "w": 59,
+            "c": 415
+          },
+          {
+            "timeKey": "23:05",
+            "w": 30,
+            "c": 227
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2025-12-08",
+        "filePath": "C_C++/INFORMATICA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 5
+      },
+      {
+        "date": "2025-12-08",
+        "filePath": "2025-12-08.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 6
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 603,
+        "charCountStart": 4339,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:50",
+            "w": 24,
+            "c": 142
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:55",
+            "w": 20,
+            "c": 139
+          },
+          {
+            "timeKey": "11:00",
+            "w": 21,
+            "c": 143
+          },
+          {
+            "timeKey": "11:10",
+            "w": 24,
+            "c": 205
+          },
+          {
+            "timeKey": "11:20",
+            "w": 16,
+            "c": 148
+          },
+          {
+            "timeKey": "11:25",
+            "w": 47,
+            "c": 330
+          },
+          {
+            "timeKey": "11:30",
+            "w": 16,
+            "c": 114
+          },
+          {
+            "timeKey": "11:35",
+            "w": 20,
+            "c": 148
+          },
+          {
+            "timeKey": "11:40",
+            "w": 24,
+            "c": 172
+          },
+          {
+            "timeKey": "11:45",
+            "w": 23,
+            "c": 193
+          },
+          {
+            "timeKey": "11:50",
+            "w": 2,
+            "c": 34
+          },
+          {
+            "timeKey": "12:05",
+            "w": 23,
+            "c": 156
+          },
+          {
+            "timeKey": "12:10",
+            "w": 78,
+            "c": 546
+          },
+          {
+            "timeKey": "12:15",
+            "w": 22,
+            "c": 143
+          },
+          {
+            "timeKey": "12:20",
+            "w": 39,
+            "c": 327
+          },
+          {
+            "timeKey": "12:25",
+            "w": 131,
+            "c": 764
+          },
+          {
+            "timeKey": "12:30",
+            "w": 68,
+            "c": 430
+          },
+          {
+            "timeKey": "12:35",
+            "w": 49,
+            "c": 293
+          },
+          {
+            "timeKey": "12:40",
+            "w": 94,
+            "c": 646
+          },
+          {
+            "timeKey": "12:45",
+            "w": 149,
+            "c": 1045
+          },
+          {
+            "timeKey": "12:50",
+            "w": 117,
+            "c": 806
+          },
+          {
+            "timeKey": "12:55",
+            "w": 5,
+            "c": 76
+          },
+          {
+            "timeKey": "13:10",
+            "w": 4,
+            "c": 49
+          },
+          {
+            "timeKey": "13:15",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "15:45",
+            "w": 7,
+            "c": 83
+          },
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/Approfondimenti/Passaggio_Parametri_per_Indirizzo.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:55",
+            "w": 12,
+            "c": 82
+          },
+          {
+            "timeKey": "13:00",
+            "w": 71,
+            "c": 442
+          },
+          {
+            "timeKey": "13:05",
+            "w": 28,
+            "c": 208
+          },
+          {
+            "timeKey": "13:10",
+            "w": 129,
+            "c": 911
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/Approfondimenti/Struct_come_Parametri(Puntatori).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "13:10",
+            "w": 38,
+            "c": 247
+          },
+          {
+            "timeKey": "13:15",
+            "w": 25,
+            "c": 167
+          },
+          {
+            "timeKey": "15:40",
+            "w": 17,
+            "c": 103
+          },
+          {
+            "timeKey": "15:45",
+            "w": 13,
+            "c": 103
+          },
+          {
+            "timeKey": "16:15",
+            "w": -2,
+            "c": -7
+          },
+          {
+            "timeKey": "16:20",
+            "w": 8,
+            "c": 66
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/Approfondimenti/Sintassi_Direttive_al_Compilatore.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:45",
+            "w": 15,
+            "c": 108
+          },
+          {
+            "timeKey": "15:50",
+            "w": 36,
+            "c": 231
+          },
+          {
+            "timeKey": "15:55",
+            "w": 73,
+            "c": 488
+          },
+          {
+            "timeKey": "16:05",
+            "w": 73,
+            "c": 391
+          },
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "16:20",
+            "w": 18,
+            "c": 134
+          },
+          {
+            "timeKey": "16:25",
+            "w": 62,
+            "c": 458
+          },
+          {
+            "timeKey": "16:30",
+            "w": 14,
+            "c": 93
+          },
+          {
+            "timeKey": "16:35",
+            "w": 61,
+            "c": 365
+          },
+          {
+            "timeKey": "16:40",
+            "w": 63,
+            "c": 366
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/INFORMATICA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-12-09",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "18:45",
+            "w": 9,
+            "c": 58
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 11,
+        "charCountStart": 71,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "20:50",
+            "w": 3,
+            "c": 32
+          },
+          {
+            "timeKey": "21:20",
+            "w": 4,
+            "c": 58
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 1001,
+        "charCountStart": 7002,
+        "changes": [
+          {
+            "timeKey": "09:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:25",
+            "w": 2,
+            "c": 23
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 627,
+        "charCountStart": 4481,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "10:35",
+            "w": 16,
+            "c": 139
+          },
+          {
+            "timeKey": "10:40",
+            "w": 57,
+            "c": 476
+          },
+          {
+            "timeKey": "10:45",
+            "w": 22,
+            "c": 168
+          },
+          {
+            "timeKey": "10:50",
+            "w": 27,
+            "c": 187
+          },
+          {
+            "timeKey": "10:55",
+            "w": 30,
+            "c": 282
+          },
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 31
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Funzioni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 9,
+            "c": 72
+          },
+          {
+            "timeKey": "09:40",
+            "w": 24,
+            "c": 209
+          },
+          {
+            "timeKey": "09:55",
+            "w": 12,
+            "c": 83
+          },
+          {
+            "timeKey": "10:00",
+            "w": 68,
+            "c": 470
+          },
+          {
+            "timeKey": "10:05",
+            "w": 27,
+            "c": 187
+          },
+          {
+            "timeKey": "10:10",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "10:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Approfondimenti/Sintassi_Direttive_al_Compilatore.md",
+        "wordCountStart": 415,
+        "charCountStart": 2637,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 1,
+            "c": 7
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Approfondimenti/Passaggio_Parametri_per_Valore.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:20",
+            "w": 17,
+            "c": 100
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Approfondimenti/Passaggio_Parametri_per_Indirizzo.md",
+        "wordCountStart": 240,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 20
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Gestione_File.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 47,
+            "c": 360
+          },
+          {
+            "timeKey": "11:10",
+            "w": 36,
+            "c": 242
+          },
+          {
+            "timeKey": "11:35",
+            "w": -2,
+            "c": -13
+          },
+          {
+            "timeKey": "12:05",
+            "w": 34,
+            "c": 220
+          },
+          {
+            "timeKey": "12:10",
+            "w": 14,
+            "c": 85
+          },
+          {
+            "timeKey": "12:15",
+            "w": 7,
+            "c": 55
+          },
+          {
+            "timeKey": "12:20",
+            "w": 62,
+            "c": 432
+          },
+          {
+            "timeKey": "12:25",
+            "w": -2,
+            "c": 1
+          },
+          {
+            "timeKey": "12:45",
+            "w": 2,
+            "c": 8
+          },
+          {
+            "timeKey": "12:50",
+            "w": -2,
+            "c": -8
+          },
+          {
+            "timeKey": "14:15",
+            "w": 6,
+            "c": 48
+          },
+          {
+            "timeKey": "14:20",
+            "w": 41,
+            "c": 283
+          },
+          {
+            "timeKey": "14:25",
+            "w": 41,
+            "c": 281
+          },
+          {
+            "timeKey": "14:30",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "14:35",
+            "w": 55,
+            "c": 398
+          },
+          {
+            "timeKey": "14:40",
+            "w": 77,
+            "c": 535
+          },
+          {
+            "timeKey": "14:45",
+            "w": 8,
+            "c": 85
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:55",
+            "w": 20,
+            "c": 131
+          },
+          {
+            "timeKey": "19:05",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "19:10",
+            "w": 24,
+            "c": 149
+          },
+          {
+            "timeKey": "19:15",
+            "w": 198,
+            "c": 1447
+          },
+          {
+            "timeKey": "19:20",
+            "w": 41,
+            "c": 289
+          },
+          {
+            "timeKey": "19:25",
+            "w": 13,
+            "c": 70
+          },
+          {
+            "timeKey": "20:10",
+            "w": 35,
+            "c": 286
+          },
+          {
+            "timeKey": "20:15",
+            "w": 59,
+            "c": 463
+          },
+          {
+            "timeKey": "20:20",
+            "w": 48,
+            "c": 315
+          },
+          {
+            "timeKey": "20:25",
+            "w": 25,
+            "c": 177
+          },
+          {
+            "timeKey": "20:40",
+            "w": 37,
+            "c": 278
+          },
+          {
+            "timeKey": "20:45",
+            "w": 18,
+            "c": 134
+          },
+          {
+            "timeKey": "20:50",
+            "w": 6,
+            "c": 52
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/StruttureDati/List.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "23:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2025-12-10",
+        "filePath": "C_C++/Programmazione_Ricorsiva.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 72,
+            "c": 442
+          },
+          {
+            "timeKey": "00:05",
+            "w": -7,
+            "c": -11
+          },
+          {
+            "timeKey": "00:15",
+            "w": 16,
+            "c": 103
+          },
+          {
+            "timeKey": "01:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:45",
+            "w": 7,
+            "c": 67
+          },
+          {
+            "timeKey": "21:50",
+            "w": 24,
+            "c": 162
+          },
+          {
+            "timeKey": "21:55",
+            "w": 47,
+            "c": 359
+          },
+          {
+            "timeKey": "22:00",
+            "w": 79,
+            "c": 562
+          },
+          {
+            "timeKey": "22:05",
+            "w": 61,
+            "c": 418
+          },
+          {
+            "timeKey": "22:10",
+            "w": 5,
+            "c": 19
+          },
+          {
+            "timeKey": "23:20",
+            "w": 1,
+            "c": 13
+          },
+          {
+            "timeKey": "23:35",
+            "w": 22,
+            "c": 163
+          },
+          {
+            "timeKey": "23:40",
+            "w": 46,
+            "c": 318
+          },
+          {
+            "timeKey": "23:50",
+            "w": 54,
+            "c": 315
+          },
+          {
+            "timeKey": "23:55",
+            "w": 11,
+            "c": 59
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Programmazione_Ricorsiva.md",
+        "wordCountStart": 438,
+        "charCountStart": 2989,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 22,
+            "c": 144
+          },
+          {
+            "timeKey": "10:05",
+            "w": 25,
+            "c": 174
+          },
+          {
+            "timeKey": "10:15",
+            "w": 8,
+            "c": 62
+          },
+          {
+            "timeKey": "10:20",
+            "w": 54,
+            "c": 395
+          },
+          {
+            "timeKey": "10:25",
+            "w": 33,
+            "c": 241
+          },
+          {
+            "timeKey": "10:30",
+            "w": 55,
+            "c": 430
+          },
+          {
+            "timeKey": "10:35",
+            "w": 175,
+            "c": 1213
+          },
+          {
+            "timeKey": "10:40",
+            "w": 42,
+            "c": 295
+          },
+          {
+            "timeKey": "10:45",
+            "w": 33,
+            "c": 223
+          },
+          {
+            "timeKey": "11:25",
+            "w": 4,
+            "c": 40
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 780,
+        "charCountStart": 5779,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Approfondimenti/Sintassi_Direttive_al_Compilatore.md",
+        "wordCountStart": 416,
+        "charCountStart": 2644,
+        "changes": [],
+        "id": 26
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 1003,
+        "charCountStart": 7025,
+        "changes": [
+          {
+            "timeKey": "15:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 27
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Gestione_File.md",
+        "wordCountStart": 948,
+        "charCountStart": 6801,
+        "changes": [],
+        "id": 28
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Allocazione_Dinamica_Memoria.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "16:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:55",
+            "w": 6,
+            "c": 50
+          },
+          {
+            "timeKey": "17:10",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "17:15",
+            "w": 67,
+            "c": 453
+          },
+          {
+            "timeKey": "17:20",
+            "w": 55,
+            "c": 410
+          },
+          {
+            "timeKey": "17:25",
+            "w": 42,
+            "c": 328
+          },
+          {
+            "timeKey": "17:30",
+            "w": 7,
+            "c": 54
+          },
+          {
+            "timeKey": "17:40",
+            "w": 1,
+            "c": 15
+          },
+          {
+            "timeKey": "17:45",
+            "w": 20,
+            "c": 120
+          },
+          {
+            "timeKey": "17:50",
+            "w": 12,
+            "c": 92
+          },
+          {
+            "timeKey": "18:10",
+            "w": 24,
+            "c": 189
+          },
+          {
+            "timeKey": "18:15",
+            "w": 61,
+            "c": 460
+          },
+          {
+            "timeKey": "18:20",
+            "w": 431,
+            "c": 3524
+          },
+          {
+            "timeKey": "18:25",
+            "w": 34,
+            "c": 450
+          },
+          {
+            "timeKey": "18:30",
+            "w": -27,
+            "c": -149
+          },
+          {
+            "timeKey": "19:10",
+            "w": 13,
+            "c": 88
+          },
+          {
+            "timeKey": "19:15",
+            "w": 33,
+            "c": 215
+          },
+          {
+            "timeKey": "19:20",
+            "w": 31,
+            "c": 244
+          },
+          {
+            "timeKey": "19:25",
+            "w": 28,
+            "c": 200
+          },
+          {
+            "timeKey": "19:30",
+            "w": 17,
+            "c": 133
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 22,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 30
+      },
+      {
+        "date": "2025-12-11",
+        "filePath": "C_C++/Approfondimenti/Stack_vs_Heap.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:15",
+            "w": 562,
+            "c": 4027
+          },
+          {
+            "timeKey": "19:20",
+            "w": 261,
+            "c": 1658
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2025-12-12",
+        "filePath": "C_C++/Allocazione_Dinamica_Memoria.md",
+        "wordCountStart": 859,
+        "charCountStart": 6914,
+        "changes": [
+          {
+            "timeKey": "10:50",
+            "w": -18,
+            "c": -105
+          },
+          {
+            "timeKey": "10:55",
+            "w": 66,
+            "c": 440
+          },
+          {
+            "timeKey": "11:00",
+            "w": 50,
+            "c": 333
+          },
+          {
+            "timeKey": "11:05",
+            "w": 70,
+            "c": 468
+          },
+          {
+            "timeKey": "11:10",
+            "w": 35,
+            "c": 202
+          },
+          {
+            "timeKey": "17:45",
+            "w": 20,
+            "c": 133
+          },
+          {
+            "timeKey": "18:10",
+            "w": 15,
+            "c": 98
+          },
+          {
+            "timeKey": "18:15",
+            "w": 39,
+            "c": 327
+          },
+          {
+            "timeKey": "18:20",
+            "w": 35,
+            "c": 279
+          },
+          {
+            "timeKey": "18:25",
+            "w": 27,
+            "c": 193
+          },
+          {
+            "timeKey": "18:40",
+            "w": 14,
+            "c": 116
+          },
+          {
+            "timeKey": "18:45",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "18:50",
+            "w": 8,
+            "c": 46
+          },
+          {
+            "timeKey": "18:55",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "19:00",
+            "w": 0,
+            "c": 16
+          },
+          {
+            "timeKey": "19:05",
+            "w": 4,
+            "c": 47
+          },
+          {
+            "timeKey": "19:15",
+            "w": 28,
+            "c": 215
+          },
+          {
+            "timeKey": "19:20",
+            "w": 4,
+            "c": 45
+          },
+          {
+            "timeKey": "19:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:40",
+            "w": 343,
+            "c": 3242
+          },
+          {
+            "timeKey": "19:55",
+            "w": 284,
+            "c": 2309
+          },
+          {
+            "timeKey": "20:00",
+            "w": 361,
+            "c": 3525
+          }
+        ],
+        "id": 32
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Allocazione_Dinamica_Memoria.md",
+        "wordCountStart": 2251,
+        "charCountStart": 18889,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 8,
+            "c": 77
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Gestione_File.md",
+        "wordCountStart": 948,
+        "charCountStart": 6801,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 409,
+            "c": 3395
+          },
+          {
+            "timeKey": "17:50",
+            "w": 227,
+            "c": 1739
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Approfondimenti/Struct_come_Parametri(Puntatori).md",
+        "wordCountStart": 99,
+        "charCountStart": 679,
+        "changes": [],
+        "id": 35
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Funzioni.md",
+        "wordCountStart": 147,
+        "charCountStart": 1069,
+        "changes": [],
+        "id": 36
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 22,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 37
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 780,
+        "charCountStart": 5779,
+        "changes": [
+          {
+            "timeKey": "18:15",
+            "w": 9,
+            "c": 68
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Approfondimenti/Tipi_di_Dato_Astratto.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:20",
+            "w": 18,
+            "c": 137
+          },
+          {
+            "timeKey": "18:25",
+            "w": 40,
+            "c": 290
+          },
+          {
+            "timeKey": "18:30",
+            "w": 10,
+            "c": 89
+          },
+          {
+            "timeKey": "18:35",
+            "w": 43,
+            "c": 281
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-12-13",
+        "filePath": "C_C++/Approfondimenti/Stack_vs_Heap.md",
+        "wordCountStart": 823,
+        "charCountStart": 5685,
+        "changes": [],
+        "id": 40
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 22,
+        "charCountStart": 197,
+        "changes": [],
+        "id": 41
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/Approfondimenti/Tipi_di_Dato_Astratto.md",
+        "wordCountStart": 111,
+        "charCountStart": 797,
+        "changes": [],
+        "id": 42
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/StruttureDati/List.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 5,
+            "c": 56
+          },
+          {
+            "timeKey": "11:35",
+            "w": 54,
+            "c": 405
+          },
+          {
+            "timeKey": "11:40",
+            "w": 11,
+            "c": 80
+          },
+          {
+            "timeKey": "11:50",
+            "w": 0,
+            "c": 17
+          },
+          {
+            "timeKey": "11:55",
+            "w": 34,
+            "c": 246
+          },
+          {
+            "timeKey": "12:00",
+            "w": 27,
+            "c": 184
+          },
+          {
+            "timeKey": "12:05",
+            "w": 53,
+            "c": 383
+          },
+          {
+            "timeKey": "12:10",
+            "w": 10,
+            "c": 72
+          },
+          {
+            "timeKey": "12:45",
+            "w": 10,
+            "c": 51
+          },
+          {
+            "timeKey": "12:50",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "12:55",
+            "w": 42,
+            "c": 337
+          },
+          {
+            "timeKey": "13:00",
+            "w": 1,
+            "c": 4
+          },
+          {
+            "timeKey": "16:15",
+            "w": 10,
+            "c": 66
+          },
+          {
+            "timeKey": "16:20",
+            "w": 51,
+            "c": 288
+          },
+          {
+            "timeKey": "16:25",
+            "w": 51,
+            "c": 330
+          },
+          {
+            "timeKey": "16:30",
+            "w": 31,
+            "c": 213
+          },
+          {
+            "timeKey": "16:35",
+            "w": 36,
+            "c": 231
+          },
+          {
+            "timeKey": "16:45",
+            "w": 11,
+            "c": 71
+          },
+          {
+            "timeKey": "16:50",
+            "w": 17,
+            "c": 132
+          },
+          {
+            "timeKey": "16:55",
+            "w": 11,
+            "c": 101
+          },
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "21:20",
+            "w": 50,
+            "c": 309
+          },
+          {
+            "timeKey": "21:25",
+            "w": 70,
+            "c": 459
+          },
+          {
+            "timeKey": "21:30",
+            "w": 22,
+            "c": 198
+          },
+          {
+            "timeKey": "21:35",
+            "w": 26,
+            "c": 147
+          },
+          {
+            "timeKey": "21:40",
+            "w": 62,
+            "c": 473
+          },
+          {
+            "timeKey": "21:45",
+            "w": 1,
+            "c": 25
+          },
+          {
+            "timeKey": "21:55",
+            "w": 57,
+            "c": 412
+          },
+          {
+            "timeKey": "22:00",
+            "w": 22,
+            "c": 130
+          },
+          {
+            "timeKey": "22:05",
+            "w": 1200,
+            "c": 10713
+          },
+          {
+            "timeKey": "22:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:15",
+            "w": 425,
+            "c": 3753
+          }
+        ],
+        "id": 43
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/Approfondimenti/Stack_vs_Heap.md",
+        "wordCountStart": 823,
+        "charCountStart": 5685,
+        "changes": [],
+        "id": 44
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 1003,
+        "charCountStart": 7025,
+        "changes": [
+          {
+            "timeKey": "21:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-12-14",
+        "filePath": "C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 1,
+            "c": 8
+          },
+          {
+            "timeKey": "00:05",
+            "w": 4,
+            "c": 31
+          },
+          {
+            "timeKey": "00:10",
+            "w": 75,
+            "c": 469
+          },
+          {
+            "timeKey": "00:15",
+            "w": 19,
+            "c": 155
+          },
+          {
+            "timeKey": "00:20",
+            "w": 332,
+            "c": 2063
+          },
+          {
+            "timeKey": "00:25",
+            "w": 1029,
+            "c": 8027
+          },
+          {
+            "timeKey": "23:15",
+            "w": 15,
+            "c": 108
+          },
+          {
+            "timeKey": "23:20",
+            "w": 53,
+            "c": 405
+          },
+          {
+            "timeKey": "23:25",
+            "w": 56,
+            "c": 418
+          },
+          {
+            "timeKey": "23:30",
+            "w": 61,
+            "c": 396
+          },
+          {
+            "timeKey": "23:35",
+            "w": 19,
+            "c": 122
+          },
+          {
+            "timeKey": "23:40",
+            "w": 15,
+            "c": 135
+          },
+          {
+            "timeKey": "23:45",
+            "w": 23,
+            "c": 172
+          },
+          {
+            "timeKey": "23:50",
+            "w": 12,
+            "c": 109
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/StruttureDati/Queue.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:30",
+            "w": 15,
+            "c": 119
+          },
+          {
+            "timeKey": "00:35",
+            "w": 17,
+            "c": 112
+          },
+          {
+            "timeKey": "00:40",
+            "w": 8,
+            "c": 41
+          },
+          {
+            "timeKey": "15:25",
+            "w": 22,
+            "c": 134
+          },
+          {
+            "timeKey": "15:30",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "15:35",
+            "w": 74,
+            "c": 547
+          },
+          {
+            "timeKey": "15:40",
+            "w": 10,
+            "c": 51
+          },
+          {
+            "timeKey": "15:45",
+            "w": 48,
+            "c": 352
+          },
+          {
+            "timeKey": "15:50",
+            "w": 12,
+            "c": 110
+          },
+          {
+            "timeKey": "15:55",
+            "w": 33,
+            "c": 183
+          },
+          {
+            "timeKey": "16:00",
+            "w": 63,
+            "c": 402
+          },
+          {
+            "timeKey": "16:10",
+            "w": 4,
+            "c": 27
+          },
+          {
+            "timeKey": "16:15",
+            "w": 101,
+            "c": 763
+          },
+          {
+            "timeKey": "16:20",
+            "w": -1,
+            "c": -16
+          },
+          {
+            "timeKey": "16:25",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "16:30",
+            "w": 216,
+            "c": 1499
+          },
+          {
+            "timeKey": "16:45",
+            "w": 340,
+            "c": 2603
+          },
+          {
+            "timeKey": "16:50",
+            "w": 434,
+            "c": 3258
+          }
+        ],
+        "id": 47
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1714,
+        "charCountStart": 12618,
+        "changes": [
+          {
+            "timeKey": "00:35",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "00:40",
+            "w": 6,
+            "c": 33
+          }
+        ],
+        "id": 48
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/StruttureDati/List.md",
+        "wordCountStart": 2407,
+        "charCountStart": 19934,
+        "changes": [
+          {
+            "timeKey": "00:35",
+            "w": 4,
+            "c": 35
+          }
+        ],
+        "id": 49
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Allocazione_Dinamica_Memoria.md",
+        "wordCountStart": 2259,
+        "charCountStart": 18966,
+        "changes": [],
+        "id": 50
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 789,
+        "charCountStart": 5847,
+        "changes": [],
+        "id": 51
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Programmazione_Ricorsiva.md",
+        "wordCountStart": 887,
+        "charCountStart": 6193,
+        "changes": [
+          {
+            "timeKey": "00:40",
+            "w": 4,
+            "c": 34
+          }
+        ],
+        "id": 52
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 1003,
+        "charCountStart": 7025,
+        "changes": [
+          {
+            "timeKey": "15:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Gestione_File.md",
+        "wordCountStart": 1584,
+        "charCountStart": 11935,
+        "changes": [],
+        "id": 54
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Funzioni.md",
+        "wordCountStart": 147,
+        "charCountStart": 1069,
+        "changes": [],
+        "id": 55
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 22,
+        "charCountStart": 197,
+        "changes": [
+          {
+            "timeKey": "18:45",
+            "w": 6,
+            "c": 72
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Algoritmi di Ricerca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": 654,
+            "c": 4842
+          },
+          {
+            "timeKey": "17:50",
+            "w": -6,
+            "c": -183
+          },
+          {
+            "timeKey": "17:55",
+            "w": 52,
+            "c": 438
+          },
+          {
+            "timeKey": "18:00",
+            "w": 11,
+            "c": 64
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Algoritmi di Ordinamento.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:05",
+            "w": 887,
+            "c": 6358
+          },
+          {
+            "timeKey": "18:10",
+            "w": 0,
+            "c": -375
+          },
+          {
+            "timeKey": "18:20",
+            "w": 546,
+            "c": 3363
+          },
+          {
+            "timeKey": "18:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "18:50",
+            "w": -5,
+            "c": -15
+          }
+        ],
+        "id": 58
+      },
+      {
+        "date": "2025-12-15",
+        "filePath": "C_C++/Alberi Binari di Ricerca.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:30",
+            "w": 723,
+            "c": 4970
+          },
+          {
+            "timeKey": "18:35",
+            "w": -4,
+            "c": -4
+          },
+          {
+            "timeKey": "18:40",
+            "w": 483,
+            "c": 2958
+          },
+          {
+            "timeKey": "18:45",
+            "w": 0,
+            "c": -16
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Puntatori.md",
+        "wordCountStart": 1003,
+        "charCountStart": 7025,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/_INFORMATICA.md",
+        "wordCountStart": 28,
+        "charCountStart": 269,
+        "changes": [],
+        "id": 61
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 789,
+        "charCountStart": 5847,
+        "changes": [
+          {
+            "timeKey": "10:30",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "10:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "10:45",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "10:50",
+            "w": 0,
+            "c": -2
+          },
+          {
+            "timeKey": "10:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "12:05",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "12:10",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "16:00",
+            "w": 14,
+            "c": 92
+          },
+          {
+            "timeKey": "16:05",
+            "w": 531,
+            "c": 3580
+          },
+          {
+            "timeKey": "16:10",
+            "w": 0,
+            "c": -33
+          },
+          {
+            "timeKey": "16:25",
+            "w": 7,
+            "c": 41
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Allocazione_Dinamica_Memoria.md",
+        "wordCountStart": 2259,
+        "charCountStart": 18966,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": 42,
+            "c": 304
+          }
+        ],
+        "id": 63
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Approfondimenti/Stack_vs_Heap.md",
+        "wordCountStart": 823,
+        "charCountStart": 5685,
+        "changes": [],
+        "id": 64
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Funzioni.md",
+        "wordCountStart": 147,
+        "charCountStart": 1069,
+        "changes": [],
+        "id": 65
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Gestione_File.md",
+        "wordCountStart": 1584,
+        "charCountStart": 11935,
+        "changes": [
+          {
+            "timeKey": "12:50",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "13:00",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "15:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:30",
+            "w": 0,
+            "c": -1
+          },
+          {
+            "timeKey": "16:50",
+            "w": 16,
+            "c": 94
+          },
+          {
+            "timeKey": "17:05",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1720,
+        "charCountStart": 12652,
+        "changes": [],
+        "id": 67
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Programmazione_Ricorsiva.md",
+        "wordCountStart": 891,
+        "charCountStart": 6227,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": -4,
+            "c": -35
+          },
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": 8
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/StruttureDati/List.md",
+        "wordCountStart": 2411,
+        "charCountStart": 19969,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 4,
+            "c": 35
+          },
+          {
+            "timeKey": "18:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:20",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Approfondimenti/Passaggio_Parametri_per_Indirizzo.md",
+        "wordCountStart": 240,
+        "charCountStart": 1643,
+        "changes": [],
+        "id": 70
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Approfondimenti/Tipi_di_Dato_Astratto.md",
+        "wordCountStart": 111,
+        "charCountStart": 797,
+        "changes": [],
+        "id": 71
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Alberi Binari di Ricerca.md",
+        "wordCountStart": 1202,
+        "charCountStart": 7908,
+        "changes": [],
+        "id": 72
+      },
+      {
+        "date": "2025-12-16",
+        "filePath": "C_C++/Algoritmi di Ordinamento.md",
+        "wordCountStart": 1428,
+        "charCountStart": 9331,
+        "changes": [],
+        "id": 73
+      },
+      {
+        "date": "2025-12-17",
+        "filePath": "C_C++/Alberi Binari di Ricerca.md",
+        "wordCountStart": 1202,
+        "charCountStart": 7908,
+        "changes": [],
+        "id": 74
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "Project/Linux/LazyVim/LazyVim keybindings.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 400,
+            "c": 2906
+          }
+        ],
+        "id": 75
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "Project/Linux/LazyVim/KeyMaps Aggiuntive.md",
+        "wordCountStart": 415,
+        "charCountStart": 3673,
+        "changes": [
+          {
+            "timeKey": "18:40",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 76
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "Project/Anonymity/CGNAT.md",
+        "wordCountStart": 751,
+        "charCountStart": 4671,
+        "changes": [
+          {
+            "timeKey": "19:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 77
+      },
+      {
+        "date": "2026-01-10",
+        "filePath": "University/C_C++/Approfondimenti/Sintassi_Direttive_al_Compilatore.md",
+        "wordCountStart": 416,
+        "charCountStart": 2644,
+        "changes": [],
+        "id": 78
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "University/C_C++/Approfondimenti/Sintassi_Direttive_al_Compilatore.md",
+        "wordCountStart": 416,
+        "charCountStart": 2644,
+        "changes": [
+          {
+            "timeKey": "11:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 79
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "University/C_C++/StruttureDati/List.md",
+        "wordCountStart": 2415,
+        "charCountStart": 20003,
+        "changes": [],
+        "id": 80
+      },
+      {
+        "date": "2026-01-11",
+        "filePath": "University/C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1734,
+        "charCountStart": 12742,
+        "changes": [],
+        "id": 81
+      },
+      {
+        "date": "2026-01-13",
+        "filePath": "University/C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1734,
+        "charCountStart": 12742,
+        "changes": [],
+        "id": 82
+      },
+      {
+        "date": "2026-01-14",
+        "filePath": "University/C_C++/Gestione_File.md",
+        "wordCountStart": 1600,
+        "charCountStart": 12028,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 6,
+            "c": 28
+          }
+        ],
+        "id": 83
+      },
+      {
+        "date": "2026-01-14",
+        "filePath": "University/C_C++/StruttureDati/List.md",
+        "wordCountStart": 2415,
+        "charCountStart": 20003,
+        "changes": [],
+        "id": 84
+      },
+      {
+        "date": "2026-01-14",
+        "filePath": "University/C_C++/StruttureDati/Queue.md",
+        "wordCountStart": 1412,
+        "charCountStart": 10284,
+        "changes": [],
+        "id": 85
+      },
+      {
+        "date": "2026-01-14",
+        "filePath": "University/C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1734,
+        "charCountStart": 12742,
+        "changes": [],
+        "id": 86
+      },
+      {
+        "date": "2026-02-26",
+        "filePath": "University/C_C++/StruttureDati/Stack.md",
+        "wordCountStart": 1734,
+        "charCountStart": 12742,
+        "changes": [],
+        "id": 87
+      },
+      {
+        "date": "2026-02-26",
+        "filePath": "University/Programmazione 2/Introduzione.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:05",
+            "w": 22,
+            "c": 172
+          },
+          {
+            "timeKey": "12:10",
+            "w": 65,
+            "c": 520
+          },
+          {
+            "timeKey": "12:15",
+            "w": 34,
+            "c": 258
+          },
+          {
+            "timeKey": "12:20",
+            "w": 29,
+            "c": 260
+          },
+          {
+            "timeKey": "12:25",
+            "w": 17,
+            "c": 113
+          },
+          {
+            "timeKey": "12:30",
+            "w": 6,
+            "c": 58
+          },
+          {
+            "timeKey": "12:40",
+            "w": 1,
+            "c": 24
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione 2/Introduzione.md",
+        "wordCountStart": 174,
+        "charCountStart": 1405,
+        "changes": [
+          {
+            "timeKey": "19:30",
+            "w": 23,
+            "c": 195
+          },
+          {
+            "timeKey": "19:35",
+            "w": 4,
+            "c": 27
+          },
+          {
+            "timeKey": "21:05",
+            "w": -201,
+            "c": -1627
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/C_C++/Gestione_File.md",
+        "wordCountStart": 1606,
+        "charCountStart": 12056,
+        "changes": [],
+        "id": 90
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "Project/Anonymity/CGNAT.md",
+        "wordCountStart": 751,
+        "charCountStart": 4671,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione 2/Basi di JAVA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "19:35",
+            "w": 17,
+            "c": 137
+          },
+          {
+            "timeKey": "19:40",
+            "w": 21,
+            "c": 178
+          },
+          {
+            "timeKey": "19:45",
+            "w": 33,
+            "c": 236
+          },
+          {
+            "timeKey": "19:55",
+            "w": 12,
+            "c": 88
+          },
+          {
+            "timeKey": "20:00",
+            "w": 12,
+            "c": 77
+          },
+          {
+            "timeKey": "20:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:40",
+            "w": 20,
+            "c": 127
+          },
+          {
+            "timeKey": "20:45",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "20:50",
+            "w": 21,
+            "c": 137
+          },
+          {
+            "timeKey": "20:55",
+            "w": 10,
+            "c": 109
+          },
+          {
+            "timeKey": "21:00",
+            "w": 7,
+            "c": 78
+          },
+          {
+            "timeKey": "21:05",
+            "w": -157,
+            "c": -1192
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/C_C++/_INFORMATICA.md",
+        "wordCountStart": 66,
+        "charCountStart": 701,
+        "changes": [
+          {
+            "timeKey": "21:10",
+            "w": 16,
+            "c": 233
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione_2/Confronto_Memoria_Java_vs_C++.md",
+        "wordCountStart": 289,
+        "charCountStart": 2173,
+        "changes": [],
+        "id": 94
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/C_C++/Tipi_di_Dato.md",
+        "wordCountStart": 1353,
+        "charCountStart": 9665,
+        "changes": [],
+        "id": 95
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione_2/_PROGRAMMAZIONE_2.md",
+        "wordCountStart": 166,
+        "charCountStart": 1249,
+        "changes": [],
+        "id": 96
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 157,
+        "charCountStart": 1192,
+        "changes": [
+          {
+            "timeKey": "21:20",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "21:25",
+            "w": 37,
+            "c": 248
+          },
+          {
+            "timeKey": "21:35",
+            "w": 2,
+            "c": 12
+          },
+          {
+            "timeKey": "21:40",
+            "w": 32,
+            "c": 222
+          },
+          {
+            "timeKey": "21:45",
+            "w": 3,
+            "c": 20
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 208,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 98
+      },
+      {
+        "date": "2026-02-27",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "00:05",
+            "w": 51,
+            "c": 377
+          },
+          {
+            "timeKey": "00:10",
+            "w": 24,
+            "c": 156
+          },
+          {
+            "timeKey": "00:20",
+            "w": 67,
+            "c": 444
+          },
+          {
+            "timeKey": "00:25",
+            "w": 51,
+            "c": 351
+          },
+          {
+            "timeKey": "00:30",
+            "w": 57,
+            "c": 400
+          },
+          {
+            "timeKey": "00:40",
+            "w": 52,
+            "c": 379
+          },
+          {
+            "timeKey": "00:45",
+            "w": 62,
+            "c": 403
+          },
+          {
+            "timeKey": "00:50",
+            "w": 7,
+            "c": 39
+          },
+          {
+            "timeKey": "01:05",
+            "w": 10,
+            "c": 55
+          },
+          {
+            "timeKey": "01:10",
+            "w": 95,
+            "c": 703
+          },
+          {
+            "timeKey": "01:15",
+            "w": 7,
+            "c": 46
+          },
+          {
+            "timeKey": "22:30",
+            "w": 32,
+            "c": 256
+          },
+          {
+            "timeKey": "22:35",
+            "w": 72,
+            "c": 477
+          },
+          {
+            "timeKey": "22:40",
+            "w": 0,
+            "c": 7
+          },
+          {
+            "timeKey": "22:45",
+            "w": 34,
+            "c": 240
+          },
+          {
+            "timeKey": "23:00",
+            "w": 2,
+            "c": 26
+          },
+          {
+            "timeKey": "23:05",
+            "w": 34,
+            "c": 221
+          },
+          {
+            "timeKey": "23:15",
+            "w": 15,
+            "c": 104
+          },
+          {
+            "timeKey": "23:30",
+            "w": 58,
+            "c": 371
+          },
+          {
+            "timeKey": "23:35",
+            "w": 62,
+            "c": 469
+          },
+          {
+            "timeKey": "23:40",
+            "w": 16,
+            "c": 129
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 808,
+        "charCountStart": 5653,
+        "changes": [
+          {
+            "timeKey": "12:45",
+            "w": 49,
+            "c": 305
+          },
+          {
+            "timeKey": "12:50",
+            "w": 10,
+            "c": 65
+          },
+          {
+            "timeKey": "13:00",
+            "w": 19,
+            "c": 141
+          },
+          {
+            "timeKey": "13:05",
+            "w": 18,
+            "c": 105
+          },
+          {
+            "timeKey": "13:10",
+            "w": 39,
+            "c": 265
+          },
+          {
+            "timeKey": "13:15",
+            "w": 68,
+            "c": 444
+          },
+          {
+            "timeKey": "13:25",
+            "w": 2,
+            "c": -1
+          },
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": -4
+          },
+          {
+            "timeKey": "17:25",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "17:30",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 231,
+        "charCountStart": 1700,
+        "changes": [],
+        "id": 101
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Fisica_1/Principi_di_Fisica.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:55",
+            "w": 3,
+            "c": 19
+          },
+          {
+            "timeKey": "18:00",
+            "w": 70,
+            "c": 473
+          },
+          {
+            "timeKey": "18:05",
+            "w": 23,
+            "c": 139
+          },
+          {
+            "timeKey": "18:30",
+            "w": 68,
+            "c": 408
+          },
+          {
+            "timeKey": "18:35",
+            "w": 76,
+            "c": 491
+          },
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": -1
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Progetto_Uni/PHP_CheatSheet.md",
+        "wordCountStart": 178,
+        "charCountStart": 1335,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "20:25",
+            "w": 470,
+            "c": 3478
+          }
+        ],
+        "id": 103
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Progetto_Uni/PostgreSQL_CheatSheet.md",
+        "wordCountStart": 194,
+        "charCountStart": 1510,
+        "changes": [
+          {
+            "timeKey": "20:20",
+            "w": 1361,
+            "c": 9392
+          },
+          {
+            "timeKey": "20:30",
+            "w": 578,
+            "c": 3993
+          }
+        ],
+        "id": 104
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Progetto_Uni/Apache_Manual.md",
+        "wordCountStart": 259,
+        "charCountStart": 2058,
+        "changes": [],
+        "id": 105
+      },
+      {
+        "date": "2026-02-28",
+        "filePath": "University/Progetto_Uni/Moodle_Setup.md",
+        "wordCountStart": 371,
+        "charCountStart": 2532,
+        "changes": [],
+        "id": 106
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Progetto_Uni/PostgreSQL_CheatSheet.md",
+        "wordCountStart": 2133,
+        "charCountStart": 14895,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": -1320,
+            "c": -8976
+          }
+        ],
+        "id": 107
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Progetto_Uni/PHP_CheatSheet.md",
+        "wordCountStart": 823,
+        "charCountStart": 6287,
+        "changes": [
+          {
+            "timeKey": "11:40",
+            "w": 2,
+            "c": 13
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Progetto_Uni/Moodle_Setup.md",
+        "wordCountStart": 881,
+        "charCountStart": 6351,
+        "changes": [],
+        "id": 109
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Progetto_Uni/Apache_Manual.md",
+        "wordCountStart": 980,
+        "charCountStart": 7469,
+        "changes": [
+          {
+            "timeKey": "11:25",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 110
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 231,
+        "charCountStart": 1700,
+        "changes": [],
+        "id": 111
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1017,
+        "charCountStart": 7009,
+        "changes": [
+          {
+            "timeKey": "17:45",
+            "w": -4,
+            "c": -36
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2026-03-02",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 207,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 113
+      },
+      {
+        "date": "2026-03-03",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 114
+      },
+      {
+        "date": "2026-03-04",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 115
+      },
+      {
+        "date": "2026-03-04",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 231,
+        "charCountStart": 1700,
+        "changes": [],
+        "id": 116
+      },
+      {
+        "date": "2026-03-04",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 207,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 117
+      },
+      {
+        "date": "2026-03-05",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 207,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 118
+      },
+      {
+        "date": "2026-03-05",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:15",
+            "w": 33,
+            "c": 231
+          },
+          {
+            "timeKey": "17:20",
+            "w": 48,
+            "c": 346
+          },
+          {
+            "timeKey": "17:25",
+            "w": 10,
+            "c": 91
+          },
+          {
+            "timeKey": "17:45",
+            "w": 5,
+            "c": 43
+          },
+          {
+            "timeKey": "17:50",
+            "w": 81,
+            "c": 531
+          },
+          {
+            "timeKey": "17:55",
+            "w": 38,
+            "c": 271
+          },
+          {
+            "timeKey": "18:10",
+            "w": 37,
+            "c": 278
+          },
+          {
+            "timeKey": "18:15",
+            "w": 90,
+            "c": 644
+          },
+          {
+            "timeKey": "18:25",
+            "w": 25,
+            "c": 182
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2026-03-06",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 367,
+        "charCountStart": 2617,
+        "changes": [
+          {
+            "timeKey": "08:50",
+            "w": 0,
+            "c": 12
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2026-03-11",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 367,
+        "charCountStart": 2629,
+        "changes": [],
+        "id": 121
+      },
+      {
+        "date": "2026-03-11",
+        "filePath": "University/Programmazione_2/UML.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:35",
+            "w": 6,
+            "c": 49
+          },
+          {
+            "timeKey": "10:40",
+            "w": 32,
+            "c": 259
+          }
+        ],
+        "id": 122
+      },
+      {
+        "date": "2026-03-20",
+        "filePath": "University/Programmazione_2/UML.md",
+        "wordCountStart": 38,
+        "charCountStart": 308,
+        "changes": [],
+        "id": 123
+      },
+      {
+        "date": "2026-03-20",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 367,
+        "charCountStart": 2629,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "10:50",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "10:55",
+            "w": 4,
+            "c": 47
+          },
+          {
+            "timeKey": "11:00",
+            "w": 27,
+            "c": 178
+          },
+          {
+            "timeKey": "11:05",
+            "w": 21,
+            "c": 128
+          },
+          {
+            "timeKey": "11:10",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "11:15",
+            "w": 36,
+            "c": 268
+          },
+          {
+            "timeKey": "11:20",
+            "w": 7,
+            "c": 48
+          },
+          {
+            "timeKey": "11:30",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "11:35",
+            "w": 17,
+            "c": 130
+          },
+          {
+            "timeKey": "11:40",
+            "w": 11,
+            "c": 97
+          },
+          {
+            "timeKey": "11:55",
+            "w": 26,
+            "c": 173
+          },
+          {
+            "timeKey": "12:00",
+            "w": 17,
+            "c": 118
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2026-03-22",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 533,
+        "charCountStart": 3823,
+        "changes": [
+          {
+            "timeKey": "19:50",
+            "w": 29,
+            "c": 156
+          },
+          {
+            "timeKey": "20:00",
+            "w": 12,
+            "c": 74
+          },
+          {
+            "timeKey": "20:05",
+            "w": 32,
+            "c": 227
+          },
+          {
+            "timeKey": "20:10",
+            "w": 5,
+            "c": 42
+          },
+          {
+            "timeKey": "20:20",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "22:00",
+            "w": 21,
+            "c": 148
+          },
+          {
+            "timeKey": "22:05",
+            "w": 17,
+            "c": 111
+          },
+          {
+            "timeKey": "22:10",
+            "w": 9,
+            "c": 60
+          },
+          {
+            "timeKey": "22:20",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "22:25",
+            "w": 2,
+            "c": 23
+          },
+          {
+            "timeKey": "22:30",
+            "w": 16,
+            "c": 97
+          },
+          {
+            "timeKey": "22:35",
+            "w": 5,
+            "c": 42
+          }
+        ],
+        "id": 125
+      },
+      {
+        "date": "2026-03-22",
+        "filePath": "University/Programmazione_2/Java_modifiers.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "20:10",
+            "w": 779,
+            "c": 6582
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2026-03-25",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 681,
+        "charCountStart": 4807,
+        "changes": [
+          {
+            "timeKey": "10:40",
+            "w": 4,
+            "c": 40
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 685,
+        "charCountStart": 4847,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:40",
+            "w": 18,
+            "c": 81
+          },
+          {
+            "timeKey": "16:45",
+            "w": 12,
+            "c": 80
+          },
+          {
+            "timeKey": "16:50",
+            "w": 10,
+            "c": 59
+          },
+          {
+            "timeKey": "16:55",
+            "w": 15,
+            "c": 95
+          },
+          {
+            "timeKey": "17:20",
+            "w": 1,
+            "c": 17
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/Java_modifiers.md",
+        "wordCountStart": 779,
+        "charCountStart": 6582,
+        "changes": [
+          {
+            "timeKey": "16:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 207,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 130
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 9,
+            "c": 63
+          },
+          {
+            "timeKey": "17:05",
+            "w": 44,
+            "c": 322
+          },
+          {
+            "timeKey": "17:10",
+            "w": 28,
+            "c": 205
+          },
+          {
+            "timeKey": "17:15",
+            "w": 33,
+            "c": 238
+          },
+          {
+            "timeKey": "17:20",
+            "w": 4,
+            "c": 42
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/UML.md",
+        "wordCountStart": 38,
+        "charCountStart": 308,
+        "changes": [],
+        "id": 132
+      },
+      {
+        "date": "2026-03-26",
+        "filePath": "University/Programmazione_2/Generics.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:35",
+            "w": 4,
+            "c": 37
+          },
+          {
+            "timeKey": "17:40",
+            "w": 37,
+            "c": 251
+          },
+          {
+            "timeKey": "17:45",
+            "w": 4,
+            "c": 42
+          },
+          {
+            "timeKey": "18:05",
+            "w": 29,
+            "c": 199
+          },
+          {
+            "timeKey": "18:10",
+            "w": 55,
+            "c": 357
+          },
+          {
+            "timeKey": "18:15",
+            "w": 8,
+            "c": 75
+          },
+          {
+            "timeKey": "18:35",
+            "w": 4,
+            "c": 40
+          }
+        ],
+        "id": 133
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "University/Programmazione_2/Generics.md",
+        "wordCountStart": 141,
+        "charCountStart": 1001,
+        "changes": [
+          {
+            "timeKey": "09:20",
+            "w": 1,
+            "c": 7
+          },
+          {
+            "timeKey": "09:25",
+            "w": 22,
+            "c": 125
+          },
+          {
+            "timeKey": "09:30",
+            "w": 12,
+            "c": 85
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2026-03-27",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "09:30",
+            "w": 26,
+            "c": 228
+          },
+          {
+            "timeKey": "09:35",
+            "w": 32,
+            "c": 265
+          },
+          {
+            "timeKey": "09:40",
+            "w": 8,
+            "c": 78
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2026-03-28",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 66,
+        "charCountStart": 571,
+        "changes": [
+          {
+            "timeKey": "11:10",
+            "w": 31,
+            "c": 217
+          },
+          {
+            "timeKey": "11:15",
+            "w": 24,
+            "c": 171
+          },
+          {
+            "timeKey": "11:20",
+            "w": 12,
+            "c": 92
+          },
+          {
+            "timeKey": "11:25",
+            "w": 15,
+            "c": 109
+          },
+          {
+            "timeKey": "11:30",
+            "w": 4,
+            "c": 42
+          },
+          {
+            "timeKey": "12:35",
+            "w": 0,
+            "c": -2
+          }
+        ],
+        "id": 136
+      },
+      {
+        "date": "2026-03-28",
+        "filePath": "University/Programmazione_2/Input_JAVA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:35",
+            "w": 12,
+            "c": 96
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2026-03-28",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "12:45",
+            "w": 23,
+            "c": 190
+          },
+          {
+            "timeKey": "12:50",
+            "w": 13,
+            "c": 69
+          },
+          {
+            "timeKey": "12:55",
+            "w": 0,
+            "c": 4
+          },
+          {
+            "timeKey": "13:00",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "13:05",
+            "w": 8,
+            "c": 84
+          },
+          {
+            "timeKey": "13:10",
+            "w": 34,
+            "c": 264
+          },
+          {
+            "timeKey": "13:15",
+            "w": 24,
+            "c": 174
+          },
+          {
+            "timeKey": "13:20",
+            "w": 4,
+            "c": 37
+          },
+          {
+            "timeKey": "13:30",
+            "w": 54,
+            "c": 357
+          },
+          {
+            "timeKey": "13:35",
+            "w": 7,
+            "c": 49
+          },
+          {
+            "timeKey": "18:05",
+            "w": 7,
+            "c": 52
+          },
+          {
+            "timeKey": "18:20",
+            "w": 19,
+            "c": 138
+          },
+          {
+            "timeKey": "18:25",
+            "w": 36,
+            "c": 201
+          },
+          {
+            "timeKey": "18:30",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 138
+      },
+      {
+        "date": "2026-04-01",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [],
+        "id": 139
+      },
+      {
+        "date": "2026-04-01",
+        "filePath": "University/Programmazione_2/UML.md",
+        "wordCountStart": 38,
+        "charCountStart": 308,
+        "changes": [],
+        "id": 140
+      },
+      {
+        "date": "2026-04-01",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 152,
+        "charCountStart": 1200,
+        "changes": [],
+        "id": 141
+      },
+      {
+        "date": "2026-04-02",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 152,
+        "charCountStart": 1200,
+        "changes": [],
+        "id": 142
+      },
+      {
+        "date": "2026-04-02",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 118,
+        "charCountStart": 870,
+        "changes": [],
+        "id": 143
+      },
+      {
+        "date": "2026-04-14",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 118,
+        "charCountStart": 870,
+        "changes": [],
+        "id": 144
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 118,
+        "charCountStart": 870,
+        "changes": [],
+        "id": 145
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "University/Programmazione_2/Input_JAVA.md",
+        "wordCountStart": 12,
+        "charCountStart": 96,
+        "changes": [],
+        "id": 147
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 152,
+        "charCountStart": 1200,
+        "changes": [],
+        "id": 148
+      },
+      {
+        "date": "2026-04-18",
+        "filePath": "University/Programmazione_2/Ordinamento.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:10",
+            "w": 5,
+            "c": 42
+          },
+          {
+            "timeKey": "17:15",
+            "w": 22,
+            "c": 166
+          },
+          {
+            "timeKey": "17:25",
+            "w": 0,
+            "c": 1
+          },
+          {
+            "timeKey": "17:30",
+            "w": 11,
+            "c": 68
+          },
+          {
+            "timeKey": "17:35",
+            "w": 17,
+            "c": 146
+          },
+          {
+            "timeKey": "17:40",
+            "w": 22,
+            "c": 178
+          },
+          {
+            "timeKey": "17:45",
+            "w": 4,
+            "c": 43
+          },
+          {
+            "timeKey": "17:50",
+            "w": 4,
+            "c": 39
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "University/Programmazione_2/Ordinamento.md",
+        "wordCountStart": 85,
+        "charCountStart": 683,
+        "changes": [],
+        "id": 150
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 118,
+        "charCountStart": 870,
+        "changes": [
+          {
+            "timeKey": "12:10",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 151
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 152
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 45,
+            "c": 299
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2026-04-19",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:40",
+            "w": 4,
+            "c": 25
+          },
+          {
+            "timeKey": "12:45",
+            "w": 24,
+            "c": 174
+          },
+          {
+            "timeKey": "22:50",
+            "w": 16,
+            "c": 135
+          },
+          {
+            "timeKey": "22:55",
+            "w": 12,
+            "c": 87
+          },
+          {
+            "timeKey": "23:00",
+            "w": 40,
+            "c": 260
+          },
+          {
+            "timeKey": "23:05",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "23:10",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "23:15",
+            "w": 8,
+            "c": 76
+          },
+          {
+            "timeKey": "23:25",
+            "w": 4,
+            "c": 39
+          },
+          {
+            "timeKey": "23:30",
+            "w": 26,
+            "c": 151
+          },
+          {
+            "timeKey": "23:35",
+            "w": 16,
+            "c": 153
+          },
+          {
+            "timeKey": "23:40",
+            "w": 16,
+            "c": 142
+          },
+          {
+            "timeKey": "23:45",
+            "w": 31,
+            "c": 181
+          },
+          {
+            "timeKey": "23:55",
+            "w": 8,
+            "c": 79
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2026-04-20",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 213,
+        "charCountStart": 1580,
+        "changes": [
+          {
+            "timeKey": "16:35",
+            "w": 12,
+            "c": 104
+          },
+          {
+            "timeKey": "16:40",
+            "w": 6,
+            "c": 46
+          },
+          {
+            "timeKey": "16:45",
+            "w": 41,
+            "c": 264
+          },
+          {
+            "timeKey": "16:50",
+            "w": 50,
+            "c": 347
+          },
+          {
+            "timeKey": "16:55",
+            "w": 1,
+            "c": 5
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2026-04-21",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 323,
+        "charCountStart": 2346,
+        "changes": [
+          {
+            "timeKey": "09:40",
+            "w": 7,
+            "c": 49
+          },
+          {
+            "timeKey": "09:45",
+            "w": 24,
+            "c": 209
+          },
+          {
+            "timeKey": "10:05",
+            "w": 31,
+            "c": 233
+          },
+          {
+            "timeKey": "10:10",
+            "w": 24,
+            "c": 181
+          },
+          {
+            "timeKey": "10:15",
+            "w": 27,
+            "c": 213
+          },
+          {
+            "timeKey": "10:20",
+            "w": 25,
+            "c": 155
+          },
+          {
+            "timeKey": "17:15",
+            "w": 48,
+            "c": 381
+          },
+          {
+            "timeKey": "17:20",
+            "w": 1,
+            "c": 9
+          },
+          {
+            "timeKey": "17:25",
+            "w": 18,
+            "c": 124
+          },
+          {
+            "timeKey": "17:30",
+            "w": 11,
+            "c": 77
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2026-04-22",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 539,
+        "charCountStart": 3977,
+        "changes": [],
+        "id": 157
+      },
+      {
+        "date": "2026-04-22",
+        "filePath": "University/Programmazione_2/Input_JAVA.md",
+        "wordCountStart": 12,
+        "charCountStart": 96,
+        "changes": [],
+        "id": 158
+      },
+      {
+        "date": "2026-04-22",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 741,
+        "charCountStart": 5179,
+        "changes": [],
+        "id": 159
+      },
+      {
+        "date": "2026-04-24",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 741,
+        "charCountStart": 5179,
+        "changes": [],
+        "id": 160
+      },
+      {
+        "date": "2026-04-24",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 539,
+        "charCountStart": 3977,
+        "changes": [],
+        "id": 161
+      },
+      {
+        "date": "2026-04-26",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 539,
+        "charCountStart": 3977,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 0,
+            "c": 2
+          },
+          {
+            "timeKey": "17:05",
+            "w": 7,
+            "c": 53
+          },
+          {
+            "timeKey": "17:10",
+            "w": 9,
+            "c": 82
+          },
+          {
+            "timeKey": "17:15",
+            "w": 1,
+            "c": 16
+          },
+          {
+            "timeKey": "17:20",
+            "w": 13,
+            "c": 75
+          },
+          {
+            "timeKey": "17:25",
+            "w": 22,
+            "c": 168
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2026-04-27",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 591,
+        "charCountStart": 4373,
+        "changes": [
+          {
+            "timeKey": "11:20",
+            "w": 16,
+            "c": 129
+          },
+          {
+            "timeKey": "11:35",
+            "w": 4,
+            "c": 39
+          }
+        ],
+        "id": 163
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [
+          {
+            "timeKey": "14:55",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Confronto_Memoria_Java_vs_C++.md",
+        "wordCountStart": 289,
+        "charCountStart": 2175,
+        "changes": [],
+        "id": 165
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [
+          {
+            "timeKey": "10:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 231,
+        "charCountStart": 1700,
+        "changes": [],
+        "id": 167
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Collection_in_java.md",
+        "wordCountStart": 152,
+        "charCountStart": 1200,
+        "changes": [],
+        "id": 168
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 741,
+        "charCountStart": 5179,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "11:25",
+            "w": 14,
+            "c": 78
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 299,
+        "changes": [
+          {
+            "timeKey": "14:45",
+            "w": 0,
+            "c": 1
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Java_modifiers.md",
+        "wordCountStart": 779,
+        "charCountStart": 6582,
+        "changes": [],
+        "id": 171
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 172
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 122,
+        "charCountStart": 910,
+        "changes": [],
+        "id": 173
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/Ordinamento.md",
+        "wordCountStart": 85,
+        "charCountStart": 683,
+        "changes": [],
+        "id": 174
+      },
+      {
+        "date": "2026-04-28",
+        "filePath": "University/Programmazione_2/UML.md",
+        "wordCountStart": 38,
+        "charCountStart": 308,
+        "changes": [],
+        "id": 175
+      },
+      {
+        "date": "2026-04-29",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [],
+        "id": 176
+      },
+      {
+        "date": "2026-05-07",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [],
+        "id": 177
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [],
+        "id": 178
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 179
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Basi_di_JAVA-C.md",
+        "wordCountStart": 231,
+        "charCountStart": 1700,
+        "changes": [],
+        "id": 180
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/_PROGRAMMAZIONE_2.md",
+        "wordCountStart": 166,
+        "charCountStart": 1251,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [
+          {
+            "timeKey": "11:00",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 182
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 755,
+        "charCountStart": 5257,
+        "changes": [],
+        "id": 183
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Generics.md",
+        "wordCountStart": 176,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 184
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Interfacce.md",
+        "wordCountStart": 122,
+        "charCountStart": 910,
+        "changes": [],
+        "id": 185
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Java_modifiers.md",
+        "wordCountStart": 779,
+        "charCountStart": 6582,
+        "changes": [],
+        "id": 186
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Introduzione.md",
+        "wordCountStart": 207,
+        "charCountStart": 1705,
+        "changes": [],
+        "id": 187
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Ordinamento.md",
+        "wordCountStart": 85,
+        "charCountStart": 683,
+        "changes": [],
+        "id": 188
+      },
+      {
+        "date": "2026-05-13",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 189
+      },
+      {
+        "date": "2026-05-14",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 190
+      },
+      {
+        "date": "2026-05-14",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [],
+        "id": 191
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 611,
+        "charCountStart": 4541,
+        "changes": [
+          {
+            "timeKey": "11:05",
+            "w": 8,
+            "c": 77
+          },
+          {
+            "timeKey": "11:10",
+            "w": 22,
+            "c": 155
+          },
+          {
+            "timeKey": "11:15",
+            "w": 45,
+            "c": 307
+          },
+          {
+            "timeKey": "12:05",
+            "w": 18,
+            "c": 107
+          },
+          {
+            "timeKey": "12:10",
+            "w": 12,
+            "c": 72
+          },
+          {
+            "timeKey": "12:15",
+            "w": 17,
+            "c": 124
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/Gestione_Eccezioni.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:15",
+            "w": 0,
+            "c": 10
+          },
+          {
+            "timeKey": "12:20",
+            "w": 32,
+            "c": 244
+          },
+          {
+            "timeKey": "12:30",
+            "w": 8,
+            "c": 81
+          },
+          {
+            "timeKey": "12:35",
+            "w": 4,
+            "c": 38
+          },
+          {
+            "timeKey": "12:40",
+            "w": 4,
+            "c": 36
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 194
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [],
+        "id": 195
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/Generics.md",
+        "wordCountStart": 176,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 196
+      },
+      {
+        "date": "2026-05-21",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 197
+      },
+      {
+        "date": "2026-05-25",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 733,
+        "charCountStart": 5383,
+        "changes": [],
+        "id": 198
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 733,
+        "charCountStart": 5383,
+        "changes": [],
+        "id": 199
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "University/Programmazione_2/Gestione_Eccezioni.md",
+        "wordCountStart": 48,
+        "charCountStart": 409,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "10:30",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "10:35",
+            "w": 24,
+            "c": 185
+          },
+          {
+            "timeKey": "10:40",
+            "w": 17,
+            "c": 134
+          },
+          {
+            "timeKey": "10:45",
+            "w": 8,
+            "c": 80
+          },
+          {
+            "timeKey": "11:50",
+            "w": 0,
+            "c": 3
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2026-06-04",
+        "filePath": "University/Programmazione_2/Gestione_File.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "10:25",
+            "w": 4,
+            "c": 41
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Gestione_Eccezioni.md",
+        "wordCountStart": 101,
+        "charCountStart": 850,
+        "changes": [],
+        "id": 202
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 203
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Gestione_File.md",
+        "wordCountStart": 4,
+        "charCountStart": 41,
+        "changes": [],
+        "id": 204
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/JavaFX + classi annidate.md",
+        "wordCountStart": 733,
+        "charCountStart": 5383,
+        "changes": [],
+        "id": 205
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Eredetariata_Polimorfismo.md",
+        "wordCountStart": 755,
+        "charCountStart": 5257,
+        "changes": [],
+        "id": 206
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Input_JAVA.md",
+        "wordCountStart": 12,
+        "charCountStart": 96,
+        "changes": [],
+        "id": 207
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Generics.md",
+        "wordCountStart": 176,
+        "charCountStart": 1218,
+        "changes": [],
+        "id": 208
+      },
+      {
+        "date": "2026-06-09",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [],
+        "id": 209
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "University/Programmazione_2/Identità_Uguaglianza_Confronto_JAVA.md",
+        "wordCountStart": 237,
+        "charCountStart": 1696,
+        "changes": [],
+        "id": 210
+      },
+      {
+        "date": "2026-06-10",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 211
+      },
+      {
+        "date": "2026-08-13",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 212
+      },
+      {
+        "date": "2026-08-17",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 213
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Programmazione_2/Delegation.md",
+        "wordCountStart": 45,
+        "charCountStart": 300,
+        "changes": [],
+        "id": 214
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Progetto_Uni/Apache_Manual.md",
+        "wordCountStart": 980,
+        "charCountStart": 7470,
+        "changes": [],
+        "id": 215
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Progetto_Uni/Moodle_Setup.md",
+        "wordCountStart": 881,
+        "charCountStart": 6351,
+        "changes": [],
+        "id": 216
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Progetto_Uni/PHP_CheatSheet.md",
+        "wordCountStart": 825,
+        "charCountStart": 6300,
+        "changes": [],
+        "id": 217
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Programmazione_2/Dal_C_al_JAVA.md",
+        "wordCountStart": 1013,
+        "charCountStart": 6973,
+        "changes": [],
+        "id": 218
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Programmazione_2/_PROGRAMMAZIONE_2.md",
+        "wordCountStart": 166,
+        "charCountStart": 1251,
+        "changes": [],
+        "id": 219
+      },
+      {
+        "date": "2026-09-10",
+        "filePath": "University/Fondamenti_di_Elettronica_Digitale/Fondamenti di Elettronica Digitale Funzioni Booleane e Algebra Logica.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "22:50",
+            "w": 1696,
+            "c": 10857
+          },
+          {
+            "timeKey": "22:55",
+            "w": -141,
+            "c": -538
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "University/Fondamenti_di_Elettronica_Digitale/Fondamenti di Elettronica Digitale Funzioni Booleane e Algebra Logica.md",
+        "wordCountStart": 1555,
+        "charCountStart": 10319,
+        "changes": [
+          {
+            "timeKey": "16:00",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "16:15",
+            "w": -1555,
+            "c": -10319
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "Project/Linux/nmcli.md",
+        "wordCountStart": 258,
+        "charCountStart": 1840,
+        "changes": [],
+        "id": 222
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "University/Programmazione_2/Gestione_Eccezioni.md",
+        "wordCountStart": 92,
+        "charCountStart": 850,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": -92,
+            "c": -850
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "University/2025-26/C_C++/Alberi_Binari_di_Ricerca.md",
+        "wordCountStart": 1181,
+        "charCountStart": 8026,
+        "changes": [
+          {
+            "timeKey": "16:15",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "University/2026-27/IntroductionOfMachineLearning/ML System Requirements.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "17:00",
+            "w": 14,
+            "c": 103
+          },
+          {
+            "timeKey": "17:05",
+            "w": 4,
+            "c": 36
+          },
+          {
+            "timeKey": "17:10",
+            "w": 5,
+            "c": 44
+          },
+          {
+            "timeKey": "17:15",
+            "w": 16,
+            "c": 154
+          },
+          {
+            "timeKey": "17:20",
+            "w": 30,
+            "c": 242
+          },
+          {
+            "timeKey": "17:25",
+            "w": 31,
+            "c": 195
+          },
+          {
+            "timeKey": "17:35",
+            "w": 9,
+            "c": 76
+          },
+          {
+            "timeKey": "17:40",
+            "w": 44,
+            "c": 273
+          },
+          {
+            "timeKey": "17:45",
+            "w": 17,
+            "c": 131
+          },
+          {
+            "timeKey": "18:10",
+            "w": 22,
+            "c": 146
+          },
+          {
+            "timeKey": "18:15",
+            "w": -1,
+            "c": 2
+          },
+          {
+            "timeKey": "18:20",
+            "w": 16,
+            "c": 122
+          },
+          {
+            "timeKey": "18:25",
+            "w": 33,
+            "c": 221
+          },
+          {
+            "timeKey": "18:30",
+            "w": 0,
+            "c": 3
+          },
+          {
+            "timeKey": "18:35",
+            "w": 32,
+            "c": 212
+          },
+          {
+            "timeKey": "18:40",
+            "w": 4,
+            "c": 33
+          },
+          {
+            "timeKey": "18:45",
+            "w": 36,
+            "c": 242
+          },
+          {
+            "timeKey": "18:50",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "19:10",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "22:55",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "23:00",
+            "w": 2,
+            "c": 9
+          },
+          {
+            "timeKey": "23:05",
+            "w": 31,
+            "c": 183
+          },
+          {
+            "timeKey": "23:10",
+            "w": 16,
+            "c": 91
+          },
+          {
+            "timeKey": "23:15",
+            "w": 30,
+            "c": 197
+          },
+          {
+            "timeKey": "23:20",
+            "w": 39,
+            "c": 256
+          },
+          {
+            "timeKey": "23:25",
+            "w": 21,
+            "c": 127
+          },
+          {
+            "timeKey": "23:45",
+            "w": 11,
+            "c": 92
+          },
+          {
+            "timeKey": "23:50",
+            "w": 33,
+            "c": 269
+          },
+          {
+            "timeKey": "23:55",
+            "w": 67,
+            "c": 514
+          }
+        ],
+        "id": 225
+      },
+      {
+        "date": "2026-09-15",
+        "filePath": "University/2026-27/Fondamenti_di_Elettronica_Digitale/Fondamenti di Elettronica Digitale Funzioni Booleane e Algebra Logica.md",
+        "wordCountStart": 1486,
+        "charCountStart": 10319,
+        "changes": [],
+        "id": 226
+      },
+      {
+        "date": "2026-09-16",
+        "filePath": "University/2026-27/IntroductionOfMachineLearning/ML System Requirements.md",
+        "wordCountStart": 562,
+        "charCountStart": 3970,
+        "changes": [
+          {
+            "timeKey": "00:00",
+            "w": 8,
+            "c": 79
+          },
+          {
+            "timeKey": "00:15",
+            "w": 0,
+            "c": 0
+          },
+          {
+            "timeKey": "09:30",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "09:35",
+            "w": 2,
+            "c": 13
+          },
+          {
+            "timeKey": "09:40",
+            "w": -1,
+            "c": -3
+          },
+          {
+            "timeKey": "09:45",
+            "w": 28,
+            "c": 165
+          },
+          {
+            "timeKey": "09:50",
+            "w": 44,
+            "c": 305
+          },
+          {
+            "timeKey": "09:55",
+            "w": 26,
+            "c": 174
+          },
+          {
+            "timeKey": "10:00",
+            "w": 18,
+            "c": 122
+          },
+          {
+            "timeKey": "10:05",
+            "w": 32,
+            "c": 221
+          },
+          {
+            "timeKey": "10:10",
+            "w": 60,
+            "c": 420
+          },
+          {
+            "timeKey": "10:15",
+            "w": 3,
+            "c": 26
+          },
+          {
+            "timeKey": "10:20",
+            "w": 20,
+            "c": 144
+          },
+          {
+            "timeKey": "10:25",
+            "w": 17,
+            "c": 159
+          },
+          {
+            "timeKey": "10:50",
+            "w": 18,
+            "c": 153
+          },
+          {
+            "timeKey": "10:55",
+            "w": 34,
+            "c": 200
+          },
+          {
+            "timeKey": "11:35",
+            "w": 16,
+            "c": 89
+          },
+          {
+            "timeKey": "11:40",
+            "w": 1,
+            "c": 9
+          },
+          {
+            "timeKey": "15:45",
+            "w": 0,
+            "c": 0
+          }
+        ],
+        "id": 227
+      },
+      {
+        "date": "2026-09-16",
+        "filePath": "University/2026-27/Fondamenti_di_Elettronica_Digitale/Fondamenti di Elettronica Digitale Funzioni Booleane e Algebra Logica.md",
+        "wordCountStart": 1486,
+        "charCountStart": 10319,
+        "changes": [],
+        "id": 228
+      },
+      {
+        "date": "2026-09-16",
+        "filePath": "Project/Chrome-html/Bypass Controlli Video e Gestione DOM via Console.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "11:35",
+            "w": 682,
+            "c": 5089
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2026-09-16",
+        "filePath": "University/2026-27/Calcolatori/Architettura dei Calcolatori.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "15:55",
+            "w": 1133,
+            "c": 8898
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2026-09-16",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [],
+        "id": 231
+      }
+    ]
+  }
+}

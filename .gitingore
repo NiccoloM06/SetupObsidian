@@ -1,0 +1,9 @@
+plugins/*/main.js
+plugins/*/styles.css
+  
+# Workspace (stato locale delle finestre)
+workspace.json
+workspaces.json
+  
+# macOS
+.DS_Store

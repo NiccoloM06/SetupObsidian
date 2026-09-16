@@ -1,0 +1,95 @@
+/*
+CSS Snippet per colorare le cartelle per materia
+Materia-Colors (Palette Nord Aurora)
+*/
+
+/* === ANNO 2025-26 (NORD FROST LIGHT) === */
+.nav-folder-title[data-path*="2025-26"] .nav-folder-title-content,
+.nav-folder-title[data-path*="2025-26"] .nav-folder-icon,
+.nav-folder-title[data-path*="2025-26"] .nav-folder-collapse-indicator {
+    color: #5e81ac !important;
+}
+
+/* === ANNO 2026-27 (NORD AURORA YELLOW) === */
+.nav-folder-title[data-path*="2026-27"] .nav-folder-title-content,
+.nav-folder-title[data-path*="2026-27"] .nav-folder-icon,
+.nav-folder-title[data-path*="2026-27"] .nav-folder-collapse-indicator {
+    color: #ebcb8b !important;
+}
+
+/* --- ALGEBRA LINEARE (NORD RED) --- */
+.nav-folder-title[data-path*="AlgebraLineare"] .nav-folder-title-content,
+.nav-folder-title[data-path*="AlgebraLineare"] .nav-folder-icon,
+.nav-folder-title[data-path*="AlgebraLineare"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="AlgebraLineare"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="AlgebraLineare"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="AlgebraLineare"] + .nav-folder-children .nav-folder-icon {
+    color: #bf616a !important;
+}
+
+/* --- C/C++ (NORD GREEN) --- */
+.nav-folder-title[data-path*="C_C++"] .nav-folder-title-content,
+.nav-folder-title[data-path*="C_C++"] .nav-folder-icon,
+.nav-folder-title[data-path*="C_C++"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="C_C++"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="C_C++"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="C_C++"] + .nav-folder-children .nav-folder-icon {
+    color: #a3be8c !important;
+}
+
+/* --- FISICA 1 (NORD PURPLE) --- */
+.nav-folder-title[data-path*="Fisica_1"] .nav-folder-title-content,
+.nav-folder-title[data-path*="Fisica_1"] .nav-folder-icon,
+.nav-folder-title[data-path*="Fisica_1"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="Fisica_1"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="Fisica_1"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="Fisica_1"] + .nav-folder-children .nav-folder-icon {
+    color: #b48ead !important;
+}
+
+/* --- FONDAMENTI DI ELETTRONICA DIGITALE (NORD FROST BLUE) --- */
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] .nav-folder-title-content,
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] .nav-folder-icon,
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="Fondamenti_di_Elettronica_Digitale"] + .nav-folder-children .nav-folder-icon {
+    color: #88c0d0 !important;
+}
+
+/* --- INTRODUCTION OF MACHINE LEARNING (NORD CYAN) --- */
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] .nav-folder-title-content,
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] .nav-folder-icon,
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="IntroductionOfMachineLearning"] + .nav-folder-children .nav-folder-icon {
+    color: #8fbcbb !important;
+}
+
+/* --- PROGETTO UNI (NORD YELLOW) --- */
+.nav-folder-title[data-path*="Progetto_Uni"] .nav-folder-title-content,
+.nav-folder-title[data-path*="Progetto_Uni"] .nav-folder-icon,
+.nav-folder-title[data-path*="Progetto_Uni"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="Progetto_Uni"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="Progetto_Uni"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="Progetto_Uni"] + .nav-folder-children .nav-folder-icon {
+    color: #ebcb8b !important;
+}
+
+/* --- PROGRAMMAZIONE 2 (NORD ORANGE) --- */
+.nav-folder-title[data-path*="Programmazione_2"] .nav-folder-title-content,
+.nav-folder-title[data-path*="Programmazione_2"] .nav-folder-icon,
+.nav-folder-title[data-path*="Programmazione_2"] .nav-folder-collapse-indicator,
+.nav-folder-title[data-path*="Programmazione_2"] + .nav-folder-children .nav-file-title-content,
+.nav-folder-title[data-path*="Programmazione_2"] + .nav-folder-children .nav-folder-title-content,
+.nav-folder-title[data-path*="Programmazione_2"] + .nav-folder-children .nav-folder-icon {
+    color: #d08770 !important;
+}
+
+/* Reset dei gradienti del tema per permettere il cambio colore */
+.nav-folder-title-content, .nav-file-title-content {
+    background-image: none !important;
+    -webkit-background-clip: initial !important;
+    background-clip: initial !important;
+}
